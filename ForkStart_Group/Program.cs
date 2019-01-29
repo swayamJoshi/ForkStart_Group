@@ -20,6 +20,7 @@ namespace ForkStart_Group
       Debug.WriteLine("Hello World from the instructor!");
 
             // team member A's content goes here
+            Console.WriteLine("Hi! It's Swayam here!");
 
             // team member B's content goes here
             Console.WriteLine("Hey! It's Desmie here!");
