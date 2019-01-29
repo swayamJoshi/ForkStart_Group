@@ -19,7 +19,7 @@ namespace ForkStart_Group
     {
       Debug.WriteLine("Hello World from the instructor!");
 
-      // team member A's content goes here
+            Console.writeLine("Hi I am here, this is my contribution");
 
       // team member B's content goes here
 
